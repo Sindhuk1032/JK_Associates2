@@ -1,5 +1,6 @@
 tableextension 50184 CustomerExt extends Customer
 {
+    
     fields
     {
         field(50322; Total; Text[50])
